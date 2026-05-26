@@ -31,7 +31,7 @@ print(top_student)
 # Subject-wise Average
 subject_average = df[["Math", "Science", "English"]].mean()
 
-print("\nSubject-wise Average")
+print("\nSubject-wise Average Marks")
 print(subject_average)
 
 # Plot Graph
