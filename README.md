@@ -4,6 +4,6 @@
 
 🔬 Biomaterials | Tissue Engineering | Biomedical Implants
 
-📊 Data Analytics | Python | Biomedical Data Science
+📊 Data Analytics | Python | Bioinformatics
 
 🚀 Exploring the intersection of Biology and Data
