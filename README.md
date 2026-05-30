@@ -1,6 +1,6 @@
 # Hi, I'm Nirupam Joarder 👋
 
-🎓 Biotechnology Undergraduate at NIT Rourkela
+🎓 Biotechnology Graduate at NIT Rourkela
 
 🔬 Biomaterials | Tissue Engineering | Biomedical Implants
 
